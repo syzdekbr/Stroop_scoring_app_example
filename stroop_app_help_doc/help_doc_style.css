@@ -1,0 +1,41 @@
+#home_admin_screen{
+	margin-left: auto;
+	margin-right: auto;
+	height: 10%;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+margin-top: 38px;
+font-weight: bold;
+}
+
+.gif_image{
+	
+	margin-top: 26px;
+	margin-bottom: 16px;
+}
+
+ol {
+	font-weight: bold;
+}
+
+.figure {
+	margin-top: 26px;
+	margin-bottom: 16px;
+}
+
+img {
+	margin-top: 26px;
+	margin-bottom: 16px;
+	
+}
+
+.caption {
+	font-style: italic;
+	margin-top: 6px;
+}
+
+li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
